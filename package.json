@@ -13,5 +13,6 @@
       "name": "Kirbyrawr",
       "email": "devkirbyrawr@gmail.com"
     },
-    "type": "library"
+    "type": "library",
+    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
   }
