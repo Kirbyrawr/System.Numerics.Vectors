@@ -1,6 +1,6 @@
 {
     "name": "com.kirbyrawr.system.numerics.vectors",
-    "version": "4.1.30-1",
+    "version": "4.1.3",
     "displayName": "System.Numerics.Vectors",
     "description": "This is a package that contains the 'System.Numerics.Vectors' library.",
     "unity": "2019.1",
