@@ -9,10 +9,14 @@
       "system",
       "dlls"
     ],
+    "repository": {
+          "type": "git",
+          "url": "git@github.com:Kirbyrawr/System.Numerics.Vectors-Unity.git"
+      },
+    "license": "MIT",
     "author": {
       "name": "Kirbyrawr",
       "email": "devkirbyrawr@gmail.com"
     },
-    "type": "library",
-    "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+    "type": "library"
   }
